@@ -10,17 +10,13 @@
   <img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=React&logoColor=white" />
   <img src="https://img.shields.io/badge/Flutter-02569B?style=flat&logo=Flutter&logoColor=white" />
 
+<br><br>
+
   <!-- GitHub 통계 -->
+
 
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sefdcrxe&layout=compact" /><br><br>
   <img src="https://github-readme-stats.vercel.app/api?username=sefdcrxe&show_icons=true" />
 
-  <!-- 기술 스택 뱃지 -->
 
-  - [![HTML](https://img.shields.io/badge/HTML-★★★-orange)](https://developer.mozilla.org/en-US/docs/Web/HTML)
-  - [![CSS](https://img.shields.io/badge/CSS-★★★-blue)](https://developer.mozilla.org/en-US/docs/Web/CSS)
-  - [![JavaScript](https://img.shields.io/badge/JavaScript-★★★-yellow)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
-  - [![React](https://img.shields.io/badge/React-★★★-blue)](https://reactjs.org/)
-  - [![Flutter](https://img.shields.io/badge/Flutter-★★★-blue)](https://flutter.dev/)
-  - [![Python](https://img.shields.io/badge/Python-★★★-green)](https://www.python.org/)
 </div>
