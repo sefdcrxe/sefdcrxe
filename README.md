@@ -18,6 +18,7 @@
 [![Slack](https://img.shields.io/badge/Slack-4A154B?style=flat&logo=Slack&logoColor=white)](https://slack.com/)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=GitHub&logoColor=white)](https://github.com/)
 [![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat&logo=Figma&logoColor=white)](https://www.figma.com/)
+[![Discord](https://img.shields.io/badge/Discord-5865F2?style=flat&logo=Discord&logoColor=white)](https://discord.com/)
 
 <br><br>
   <!-- GitHub 통계 -->
