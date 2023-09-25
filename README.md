@@ -26,7 +26,8 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sefdcrxe&layout=compact" /><br><br>
 
 
-![Footer](https://capsule-render.vercel.app/api?type=waving&color=FFFF00&height=100&section=footer)
+![Footer](https://capsule-render.vercel.app/api?type=waving&color=23ADFF2F&height=100&section=footer)
+
 
 
 </div>
