@@ -2,7 +2,7 @@
 
 
   <!-- 뱃지 -->
-☀️ Tech Stack ☀️
+### ☀️ Tech Stack ☀️
 <br><br>
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=Python&logoColor=white" />
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=HTML5&logoColor=white" />
@@ -13,6 +13,15 @@
 
 <br><br>
 
+### 🫧 Tools 🫧
+
+- [![Notion](https://img.shields.io/badge/Notion-000000?style=flat&logo=Notion&logoColor=white)](https://www.notion.so/)
+- [![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-007ACC?style=flat&logo=Visual%20Studio%20Code&logoColor=white)](https://code.visualstudio.com/)
+- [![Slack](https://img.shields.io/badge/Slack-4A154B?style=flat&logo=Slack&logoColor=white)](https://slack.com/)
+- [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=GitHub&logoColor=white)](https://github.com/)
+- [![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat&logo=Figma&logoColor=white)](https://www.figma.com/)
+
+<br><br>
   <!-- GitHub 통계 -->
 
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sefdcrxe&layout=compact" /><br><br>
